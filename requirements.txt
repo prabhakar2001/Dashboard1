@@ -5,6 +5,6 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-st-aggrid
+streamlit-aggrid
 setuptools
 wheel
